@@ -7,6 +7,7 @@ This project performs **Exploratory Data Analysis (EDA)** on an e-commerce datas
 The aim is to identify relationships between features, highlight trends in customer ratings, and understand how discounts and categories influence product popularity.
 
 ---
+- **Source:** [Kaggle – Salary Dataset](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)  
 
 ## 🗂 Dataset
 The dataset includes:
